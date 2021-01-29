@@ -1,4 +1,4 @@
 # snake_game
 
-Python OOP
-Turtle Module
+ - Python OOP
+ - Turtle Module
